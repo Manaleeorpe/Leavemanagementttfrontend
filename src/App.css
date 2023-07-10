@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-image: url('https://static.vecteezy.com/system/resources/previews/000/420/220/original/modern-office-setup-background-vector-flat-illustration.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top -200px;
+
+}
